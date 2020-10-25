@@ -326,3 +326,24 @@ import seaborn as sns
 sns.clustermap(data=data_df, cmap = 'Purples')
 
 
+# %%
+#normalized
+#org_data = np.matmul(data,data.T)/np.sum(data, axis=1)
+
+#unnormalized
+org_data = np.matmul(data,data.T)
+
+org_data_df = pd.DataFrame(org_data, index = getnames(orgs_using_aragon), columns=getnames(orgs_using_aragon) )
+sns.clustermap(data=org_data_df, cmap = 'Purples')
+
+# %%
+
+#normalized
+#tool_data = np.matmul(data.T,data)/np.sum(data, axis=0)
+#unnormalized
+tool_data = np.matmul(data.T,data)
+
+
+tool_data_df = pd.DataFrame(tool_data, index = getnames(co_use), columns=getnames(co_use) )
+sns.clustermap(data=tool_data_df, cmap = 'Purples')
+# %%

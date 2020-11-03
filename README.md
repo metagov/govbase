@@ -1,17 +1,24 @@
 # Govbase
-Code, visualizations, schemas, and other stuff related to Govbase. Actual data is hosted somewhere else TBD.
+Govbase is an open, crowdsourced database of projects and tools in online governance.
 
-API documentation: https://airtable.com/appx3e9Przn9iprkU/api/docs 
+This repository contains code, visualizations, schemas, and other stuff related to Govbase. Actual data is hosted somewhere else TBD.
 
-# Tables
+# Govbase Documentation
+
+## API
+The auto-generated Airtable API documentation can be found here: https://airtable.com/appx3e9Przn9iprkU/api/docs 
+
+## Tables
 PROJECTS: A project is a discrete, re-usable software or research product. Includes code libraries, online platforms, online services, APIs, standards, protocols, and data sets.
+
 ORGANIZATIONS: A (social) organization is an entity composed of individuals gathered for a common purpose. Includes online communities, companies, nonprofits, and funders involved in online governance.
+
 STRUCTURES: A (governance) structure or institutional pattern is a scientific or technical description of a set of similar social behaviors and practices. Used mostly as a source of labels for PROJECTS.
 
-## Projects
+### Projects
 Each record in the Projects table contains the following fields:
 
-### Project
+#### Project
 string
 EXAMPLE VALUES
 "1Hive Gardens"
@@ -24,7 +31,7 @@ EXAMPLE VALUES
 
 "ActivityStreams 2.0"
 
-### Category
+#### Category
 string
 
 POSSIBLE VALUES

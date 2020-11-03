@@ -1,12 +1,16 @@
 # Govbase
 Govbase is an open, crowdsourced database of projects and tools in online governance.
 
-This repository contains code, visualizations, schemas, and other stuff related to Govbase. Actual data is hosted somewhere else TBD.
+This repository contains code, visualizations, schemas, and other stuff related to Govbase. The actual data is (currently) hosted on Airtable, at https://airtable.com/shrgnUrj0dqzZDsOd. For an editable view, please contact Josh explaining what you would like to contribute.
+
+[![govbase_schema]()]
+
+There is an API, however to access it you will need an Airtable account and editor access (Airtable will generate a key for you). You can see the API documentation here: https://airtable.com/appx3e9Przn9iprkU/api/docs.
 
 # Govbase Documentation
 
 ## API
-The auto-generated Airtable API documentation can be found here: https://airtable.com/appx3e9Przn9iprkU/api/docs 
+The auto-generated Airtable API documentation can be found here: 
 
 ## Tables
 PROJECTS: A project is a discrete, re-usable software or research product. Includes code libraries, online platforms, online services, APIs, standards, protocols, and data sets.

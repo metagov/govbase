@@ -3,8 +3,21 @@
 # Govbase
 Govbase is an open, crowdsourced database of projects and tools in online governance.
 
-This repository contains code, visualizations, schemas, and other stuff related to Govbase. The actual data is (currently) hosted on Airtable, at https://airtable.com/shrgnUrj0dqzZDsOd. For an editable view, please contact Josh explaining what you would like to contribute.
+This repository contains code, documentation, visualizations, and other material related to Govbase. The data is currently hosted on Airtable, at https://airtable.com/shrgnUrj0dqzZDsOd.
 
-![govbase_schema](https://github.com/thelastjosh/govbase/blob/master/govbase_schema.png)
+## Getting started
+1. Read our “Introducing Govbase” article.
+2. Browse the [documentation](https://github.com/thelastjosh/govbase/blob/master/documentation.md).
+3. To add a project, use this form: https://airtable.com/shr1BcXojViDgTOdX.
+4. To add an organization, use this form: https://airtable.com/shrH8YqwrQMTrFUOu.
+5. Questions? Join our Telegram chat: https://t.me/joinchat/JnbpFhQPpwm4BuZ--u7pjg.
 
-There is an API, however to access it you will need an Airtable account and editor access (Airtable will generate a key for you). You can see the API documentation here: https://airtable.com/appx3e9Przn9iprkU/api/docs.
+## Documentation
+Go to the [docs page](https://github.com/thelastjosh/govbase/blob/master/documentation.md).
+
+## Getting involved
+Govbase is a crowdsourced, community effort. We’re always looking for more editors, contributors, and research partners. If you would like to get involved, or if you have an existing mapping project that you’d like to integrate, get in touch!
+
+## What we’re working on next
+Nov - Jan: Documents and Policies tables
+Jan - March: The Register

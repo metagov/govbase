@@ -1,3 +1,5 @@
+[![govbase_logo](https://github.com/thelastjosh/govbase/blob/master/govbase_logo.png)]
+
 # Govbase
 Govbase is an open, crowdsourced database of projects and tools in online governance.
 

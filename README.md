@@ -19,5 +19,5 @@ Go to the [docs page](https://github.com/thelastjosh/govbase/blob/master/documen
 Govbase is a crowdsourced, community effort. We’re always looking for more editors, contributors, and research partners. If you would like to get involved, or if you have an existing mapping project that you’d like to integrate, get in touch!
 
 ## What we’re working on next
-Nov - Jan: Documents and Policies tables
-Jan - March: The Register
+- Nov - Jan: Documents and Policies tables
+- Jan - March: The Register

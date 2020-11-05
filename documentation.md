@@ -46,3 +46,5 @@ Most fields in the **Projects** table are pretty straightforward.
 
 ### Organizations
 
+## Schema
+![govbase_schema](https://github.com/thelastjosh/govbase/blob/master/govbase_schema.png)

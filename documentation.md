@@ -16,7 +16,8 @@ Govbase is organized into three main tables: **Projects**, **Organizations**, an
 
 **Organizations**: A (social) organization is an entity composed of individuals gathered for a common purpose. Includes online communities, companies, nonprofits, and funders involved in online governance.
 
-**Structures**: A (governance) structure or institutional pattern is a scientific or technical description of a set of similar social behaviors and practices. Used mostly as a source of labels for **Projects**.
+**Structures**: A (governance) structure or institutional pattern is a scientific or technical description of a set of similar social behaviors and practices. Used mostly as a source of labels for **Projects**. 
+
 
 ### Projects
 Most fields in the **Projects** table are pretty straightforward.
@@ -86,11 +87,15 @@ The following columns describe different governance features of online communiti
 - 1 if "Project ownership type" is empty
 
 ### Structures
-*Belongs to ontology*
+The design of this table is still an area of active research! The goal of the Structures table is not to provide a complete view of all social behaviors or to articulate a consistent ontology, but to provide a shared view through which we can compare and begin to relate existing, disparate ontologies for governance, constitution-making, platform design, and online behavior.
 
-*Is subclass of*
+*Belongs to ontology*: a link to the **Social Ontologies** table.
 
-*Is component of*
+*Is subclass of*: class A is a subclass of class B if all patterns and instances described by A are also patterns or instances of B. 
+
+*Is component of*: class A is a component of class B if the patterns and instances described by A are used to implement or construct the patterns described by B. For example, a rule is a component of a larger governance system, but not all rules are, on their own, governance systems.
+
+*Is property of*: class A is a property of class B if class A is a subclass of B and/or if it can be defined as a predicate on instances of B. For example, "proportional representation" is a property of a legislature.
 
 ## Schema
 ![govbase_schema](https://github.com/thelastjosh/govbase/blob/master/govbase_schema.png)

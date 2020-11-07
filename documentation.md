@@ -78,16 +78,12 @@ The following columns describe different governance features of online communiti
 - *How do members meet?*
 - *Process to leave*
 
-*How open is your infrastructure?*: this field is calculated using the following formula:
-
-organization_openness_score("Organization") = ($\sum$ over i \in "Projects used" openness_score(i) / |"Projects used"|
-
-openness_score("Project ownership type") = 
+*How open-source is your infrastructure?*: this score is calculated by averaging over the "openness" of the projects that the organization uses for governance, using the following openness score assignment:
 - 4 if "Project ownership type" = "Public domain"
 - 3 if "Project ownership type" = "Open-source"
 - 2 if "Project ownership type" = "Open-core"
 - 1 if "Project ownership type" = "Privately-owned"
-
+- 1 if "Project ownership type" is empty
 
 ### Structures
 *Belongs to ontology*

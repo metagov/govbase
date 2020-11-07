@@ -95,7 +95,7 @@ The design of this table is still an area of active research! The goal of the St
 
 *Is component of*: class A is a component of class B if the patterns and instances described by A are used to implement or construct the patterns described by B. For example, a rule is a component of a larger governance system, but not all rules are, on their own, governance systems.
 
-*Is property of*: class A is a property of class B if class A is a subclass of B and/or if it can be defined as a predicate on instances of B. For example, "proportional representation" is a property of a legislature.
+*Is property of*: class A is a property of class B if class A can be defined as a predicate on instances of B. For example, "proportional representation" is a property of a legislature.
 
 ## Schema
 ![govbase_schema](https://github.com/thelastjosh/govbase/blob/master/govbase_schema.png)

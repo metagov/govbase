@@ -27,24 +27,74 @@ Most fields in the **Projects** table are pretty straightforward.
 
 *Online/offline*: is the project specifically intended for online communities or offline communities? If not clear, say "not specific". If it is not intended for either (e.g. Linux), say "Not community-related". Intended to distinguish online governance tools like SourceCred from primarily offline tools like Consul (this later category of tools often gets classified under the heading of "civic tech", e.g. https://civictech.guide/).
 
-*Implements structures*: a function to the **Structures** table. This is meant as, "this project implements or helps implement a community or organization with these observed structures." Alternately: "after using this project, an organization will likely demonstrate these observed structures." So Aragon implements DAOs, CIVS implements voting, and so on.
+*Implements structures*: a This is meant as, "this project implements or helps implement a community or organization with these observed structures." Alternately: "after using this project, an organization will likely demonstrate these observed structures." E..g Aragon implements DAOs, CIVS implements voting, and so on.
  
 *Category*: possible values are
-2. "product": libraries, tools, applications, and even services
-3. "platform": hosted applications that communities interact on
-4. "standard": includes protocols and text standards. Communities can interact via protocols, but protocols aren't hosted like platforms are.
-5. "mashup": mashup of several platforms or products. My prototypical example is [vTaiwan](https://info.vtaiwan.tw/).
-1. "research" includes data sets (like Govbase!) and algorithms. It does NOT include papers.
+1. "product": libraries, tools, applications, and even services
+2. "platform": hosted applications that communities interact on
+3. "standard": includes protocols and text standards. Communities can interact via protocols, but protocols aren't hosted like platforms are.
+4. "mashup": mashup of several platforms or products. My prototypical example is [vTaiwan](https://info.vtaiwan.tw/).
+5. "research" includes data sets (like Govbase!) and algorithms. It does NOT include papers.
+
+*Project ownership type*: possible values are
+1. "Public domain": the project's code or content is not held under copyright
+2. "Open-source": the project's code or content is available for use under an open-source or open-content license
+3. "Open-core": a significant part of the project's code or content is available for use under an open-source or open-content license
+4. "Privately-owned": the project's code or content is privately-owned
 
 *Legally owned by organization*: The owner controls decisions and changes about the project. If a project is open source, the "owner" is the owner of the repository who maintains access controls to the repository.
 
-*Wants interop with project*: should be 
-
-*Is governed by (documentation)*: requires an entry to be created first in the Documents table.
+*Is governed by (documentation)*: requires an entry to be created first in the Documents table; use the [Add new document form](https://airtable.com/shrYcazDD1l2xG65m).
 
 *Used by project*: a staging column for more precise ways in which two projects interact, i.e. *Requires project (hard dependency)*, *Suggests project (soft dependency)*, *Forked from project*, and *Built interop with project*
 
+*Wants interop with project*: this is subjective, and is ideally articulated by the developer her/himself.
+
 ### Organizations
+The **Organizations** table is intended to provide context for **Projects**. It is not intended to be a comprehensive representation of an organization or of an online community.
+
+*Structure (observed)*: the organizational structure(s) adopted by the organization. E.g. the Apache Software Foundation is a nonprofit organization, r/Teenagers is an online community, the City of Basel is a municipality, and Enspiral is both a nonprofit organization and an online community.
+
+*Activities*: user-contributed tags. Current possible values are:
+1. product: the organization specializes in providing products or services for sale.
+2. investments/grants: the organization specializes in funding projects hosted by OTHER organizations and non-employee individuals.
+3. research: the organization specializes in research and development (academic or applied).
+4. social: the organization is dedicated to entertainment or socializing.
+5. DeFi: decentralized finance (specific to DAOs and blockchains)                 
+
+*Is governed by (documents)*: requires an entry to be created first in the Documents table; use the [Add new document form](https://airtable.com/shrYcazDD1l2xG65m).
+
+The following columns describe how the organization interacts or participates in different projects.
+- *Owns projects*: is the legal owner of the project and/or holds administrative rights to an open-source project
+- *Contributes to project*:
+- *Uses project (staging for Instances)*: 
+- *Instances*: link to junction table (Instances) of instances of tools being used by organizations
+
+The following columns describe different governance features of online communities, and may only be applicable to online communities: 
+- *Size*
+- *Do you need permission to join?*
+- *Other requirements to join*
+- *Total effort to join*
+- *How do members meet?*
+- *Process to leave*
+
+*How open is your infrastructure?*: this field is calculated using the following formula:
+
+organization_openness_score("Organization") = ($\sum$ over i \in "Projects used" openness_score(i) / |"Projects used"|
+
+openness_score("Project ownership type") = 
+- 4 if "Project ownership type" = "Public domain"
+- 3 if "Project ownership type" = "Open-source"
+- 2 if "Project ownership type" = "Open-core"
+- 1 if "Project ownership type" = "Privately-owned"
+
+
+### Structures
+*Belongs to ontology*
+
+*Is subclass of*
+
+*Is component of*
 
 ## Schema
 ![govbase_schema](https://github.com/thelastjosh/govbase/blob/master/govbase_schema.png)

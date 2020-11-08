@@ -18,6 +18,9 @@ Go to the [docs page](https://github.com/thelastjosh/govbase/blob/master/documen
 ## Getting involved
 Govbase is a crowdsourced, community effort. We’re always looking for more editors, contributors, and research partners. If you would like to get involved, or if you have an existing mapping project that you’d like to integrate, get in touch!
 
+## License
+The contents of this repo are available under a MIT license. The data set itself is available under a [Creative Commons BY-NC-SA 4.0 license](https://creativecommons.org/licenses/by-nc-sa/4.0/).
+
 ## What we’re working on next
 - Nov - Jan: Documents and Policies tables
 - Jan - March: The Register

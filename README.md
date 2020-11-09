@@ -23,4 +23,4 @@ The contents of this repo are available under a MIT license. The data set itself
 
 ## What we’re working on next
 - Nov - Jan: Documents and Policies tables
-- Jan - March: The Register
+- Jan - March: The Register of Computational Constitutions

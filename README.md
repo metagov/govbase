@@ -24,3 +24,8 @@ The contents of this repo are available under a MIT license. The data set itself
 ## What we’re working on next
 - Nov - Jan: Documents and Policies tables
 - Jan - March: The Register of Computational Constitutions
+
+## Acknowledgements
+Maintainers: Joshua Tan and Michael Zargham. Part of the [Metagovernance Project](metagov.org).
+
+Govbase is inspired by and draws on data from several other mapping initiatives, including the Civic Tech Field Guide, Democratic Mediums, Democracy Foundation, CredCatalog, DAOs in the Wild, DAObase, and Participedia. We would also like to thank Jeff Emmett, Nathan Schneider, Nastia Sadovnik, and Burrrata for their helpful comments and suggestions. 

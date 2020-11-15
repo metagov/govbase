@@ -1,7 +1,7 @@
 <img src="https://github.com/thelastjosh/govbase/blob/master/govbase_logo.png" width="300" />
 
 # Govbase
-Govbase is an open, crowdsourced database of projects and tools in online governance.
+Govbase is an open, crowdsourced database of projects and tools for the governance of online communities.
 
 This repository contains code, documentation, visualizations, and other material related to Govbase. The data is currently hosted on Airtable, at https://airtable.com/shrgnUrj0dqzZDsOd.
 

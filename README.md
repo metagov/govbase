@@ -5,6 +5,8 @@ Govbase is an open, crowdsourced database of projects and tools for the governan
 
 This repository contains code, documentation, visualizations, and other material related to Govbase. The data is currently hosted on Airtable, at https://airtable.com/shrgnUrj0dqzZDsOd.
 
+New: [visualization of different governance ontologies](https://embed.kumu.io/ab0993db3f2beb20be1595d498fc48a5#building-blocks-of-governance)
+
 ## Getting started
 1. Skim [the write-up](https://thelastjosh.medium.com/introducing-govbase-97884b0ddaef) on Medium.
 2. Browse the [documentation](https://github.com/thelastjosh/govbase/blob/master/documentation.md).

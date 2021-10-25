@@ -2,6 +2,6 @@
 
 The Govbase Online Constitutions data set consists of a number of constitutions written for blockchains, DAOs (decentralized autonomous organizations), and other online communities. Many constitutions have been processed using the [Constitute Project](https://www.constituteproject.org) ontology, allowing them to be compared directly with Constitute's data set of over 200 national constitutions. 
 
-If you would like upload a (raw) constitution for a given online community, please submit a pull request to add a file to this folder. If you would like the raw version to be annotated using the Constitute ontology, please message (josh at metagov.org).
+If you would like upload a (raw) constitution for a given online community, please submit a pull request to add a file to this folder. If you would like the raw version to be annotated using the Constitute ontology, please message josh@metagov.org.
 
 Not sure if your community governance document is a constitution? Just submit a pull request, and we can help you figure it out. Constitutions may be short or long, but they typically set out values, expectations, and rights for a given community.

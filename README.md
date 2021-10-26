@@ -7,7 +7,7 @@ This repository contains code, documentation, visualizations, and other material
 
 New: [collecting blockchain constitutions](https://github.com/thelastjosh/govbase/tree/master/documents/constitutions)
 
-New: [visualization of different governance ontologies](https://embed.kumu.io/ab0993db3f2beb20be1595d498fc48a5#building-blocks-of-governance)
+New: [systems map of online governance](https://embed.kumu.io/3cbd03faf0da602f351b827c7c3b98ab#structures-excel)
 
 ## Getting started
 1. Skim [the write-up](https://thelastjosh.medium.com/introducing-govbase-97884b0ddaef) on Medium.

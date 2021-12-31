@@ -1,7 +1,18 @@
-# Govbase Online Constitutions
+# Govbase Digital Constitutions
 
-The Govbase Online Constitutions data set consists of a number of constitutions written for blockchains, DAOs (decentralized autonomous organizations), and other online communities. Many constitutions have been processed using the [Constitute Project](https://www.constituteproject.org) ontology, allowing them to be compared directly with Constitute's data set of over 200 national constitutions. 
+The Govbase Digital Constitutions data set consists of a number of constitutions written for DAOs (decentralized autonomous organizations), blockchain projects, and other online communities.
 
-If you would like upload a (raw) constitution for a given online community, please submit a pull request to add a file to this folder. If you would like the raw version to be annotated using the Constitute ontology, please message josh@metagov.org.
+If you would like upload a (raw) constitution for a given online community, please submit a pull request to add a file to this folder, preferably as a .md file. Please include the original link at the top of the file. And make sure that the section titles are recognizable!
 
-Not sure if your community governance document is a constitution? Just submit a pull request, and we can help you figure it out. Constitutions may be short or long, but they typically set out values, expectations, and rights for a given community.
+A few of the above constitutions have been processed using the [Constitute Project](https://www.constituteproject.org) ontology, allowing them to be compared directly with Constitute's data set of over 200 national constitutions. If you would like the raw version to be annotated using the Constitute ontology, please message josh@metagov.org.
+
+## What is a constitution?
+
+Typically, a constitution articulates *rights*, *values*, and *goals* within the context of an organization's *decision-making*. It will often, but not always, describe the precise decision-making process of that organization. All corporations have formal constitutions. Many DAOs have a computational constitution encoded into their smart contract. Most online communities do not possess formal constitutions. 
+
+Not sure if your governance document is a constitution? Constitutional rights and values are specified informally in all sorts of places: blog posts, manifestos, covenants, governance.md files, etc. Just submit a pull request, and we can help you figure it out. Some are very short (less than 10 sentences), while others are drafted by lawyers and span 20+ pages.
+
+# Team members
+Joshua Tan, Max Langenkamp, Ann Brody, and Anna Weichselbraun
+
+Contact josh@metagov.org if you are looking for help in writing your organization's constitution.

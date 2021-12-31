@@ -1,3 +1,5 @@
+Original version: https://gov.gitcoin.co/t/tldr-what-is-gitcoin-updated-dec-2021/8694
+
 Hi frens,
 
 I'm writing an overview post about Gitcoin, so that prospective DAO participants know the why/what/how of GitcoinDAO.   I plan to update this post every month as the DAO evolves.

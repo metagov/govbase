@@ -1,3 +1,5 @@
+Original version at https://gov.paladin.vote/t/paladin-constitution-draft/53
+
 Article I - Neutrality
 * The Paladin Protocol, will not directly take part in governance proposals with the voting power deposited in its platform.
 * The Protocol will also refrain from participating in external governance when it does not directly concern itself or its direct participating interests.

@@ -8,9 +8,9 @@ A few of the above constitutions have been processed using the [Constitute Proje
 
 ## What is a constitution?
 
-Typically, a constitution articulates *rights*, *values*, and *goals* within the context of an organization's *decision-making*. It will often, but not always, describe the precise decision-making process of that organization. All corporations have formal constitutions. Many DAOs have a computational constitution encoded into their smart contract. Most online communities do not possess formal constitutions. 
+Typically, a constitution articulates *rights*, *values*, and *goals* within the context of an organization's *decision-making*. It will often, but not always, describe the decision-making process of that organization, as well as any important institutions within that process (e.g. a legislative body, a president, a treasurer). All corporations have formal constitutions. All DAOs have a [computational constitution](https://medium.com/commonsstack/exploring-daos-as-a-new-kind-of-institution-8103e6b156d4) encoded into their smart contract. Every Discord has a computational constitution embedded in the server settings. Most online communities do not possess formal constitutions.
 
-Not sure if your governance document is a constitution? Constitutional rights and values are specified informally in all sorts of places: blog posts, manifestos, covenants, governance.md files, etc. Just submit a pull request, and we can help you figure it out. Some are very short (less than 10 sentences), while others are drafted by lawyers and span 20+ pages.
+Not sure if your governance document is a constitution? Constitutional rights and values are specified informally in all sorts of places: blog posts, manifestos, covenants, governance.md files, etc. Just submit a pull request, and we can help you figure it out. Some constitutional documents are very short (less than 10 sentences), while others are drafted by lawyers and span 20+ pages.
 
 # Team members
 Joshua Tan, Max Langenkamp, Ann Brody, and Anna Weichselbraun

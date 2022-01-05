@@ -1,4 +1,4 @@
-//Copied from https://1hive.org/#/covenant
+// Archival copy. Original URL: https://1hive.org/#/covenant. Date archived: 30-10-2021.
 
 # 1Hive Community Covenant
 

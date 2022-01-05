@@ -6,7 +6,7 @@ The Govbase Digital Constitutions data set consists of a number of constitutions
 
 If you would like to upload a (raw) constitution for a given online community, please submit a pull request to add a file to this folder, preferably as a .md file. At the top of the constitution, please include a link to the original constitution using this format: 
 
-// Archival copy. Original URL: <URL>. Date archived: <Day-Month-Year, e.g. 19-11-2021>.
+// Archival copy. Original URL: <URL, e.g. https://www.google.com >. Date archived: <Day-Month-Year, e.g. 19-11-2021>.
 
 Please make sure that the section titles are recognizable!
 

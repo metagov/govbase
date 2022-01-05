@@ -2,7 +2,15 @@
 
 The Govbase Digital Constitutions data set consists of a number of constitutions written for DAOs (decentralized autonomous organizations), blockchain projects, and other online communities.
 
-If you would like upload a (raw) constitution for a given online community, please submit a pull request to add a file to this folder, preferably as a .md file. Please include the original link at the top of the file. And make sure that the section titles are recognizable!
+## Contributing
+
+If you would like to upload a (raw) constitution for a given online community, please submit a pull request to add a file to this folder, preferably as a .md file. At the top of the constitution, please include a link to the original constitution using this format: 
+
+// Archival copy
+// Original URL: <URL, e.g. https://google.com>
+// Date archived: <Day-Month-Year, e.g. 19-11-2021>
+
+Please make sure that the section titles are recognizable!
 
 A few of the above constitutions have been processed using the [Constitute Project](https://www.constituteproject.org) ontology, allowing them to be compared directly with Constitute's data set of over 200 national constitutions. If you would like the raw version to be annotated using the Constitute ontology, please message josh@metagov.org.
 

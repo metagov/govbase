@@ -1,3 +1,6 @@
+// Archival copy. Original URL: https://github.com/HausDAO/manifesto. Date archived: 11-01-2022.
+
+
 # HausDAO
 
 > DAOs in the haus!

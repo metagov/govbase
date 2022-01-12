@@ -1,4 +1,6 @@
 # Constitution
+
+
 <!-- Constitutions following this standard are *digital*, *hyperlinked*, *living*, *short*, and *maximally contentious*. 
 * Digital. The constitutions of online communities should live online.
 * Hyperlinked. Constitutions require context.

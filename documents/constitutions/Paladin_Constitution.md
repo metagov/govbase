@@ -1,4 +1,4 @@
-Original version at https://gov.paladin.vote/t/paladin-constitution-draft/53
+// Archival copy. Original URL: https://gov.paladin.vote/t/paladin-constitution-draft/53. Date archived: 30-12-2021.
 
 Article I - Neutrality
 * The Paladin Protocol, will not directly take part in governance proposals with the voting power deposited in its platform.

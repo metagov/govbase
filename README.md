@@ -11,13 +11,13 @@ New: [systems map of online governance](https://embed.kumu.io/3cbd03faf0da602f35
 
 ## Getting started
 1. Skim [the write-up](https://thelastjosh.medium.com/introducing-govbase-97884b0ddaef) on Medium.
-2. Browse the [documentation](https://github.com/thelastjosh/govbase/blob/master/documentation.md).
+2. Browse the [documentation](documentation/documentation.md)..
 3. To add a project, use this form: https://airtable.com/shr1BcXojViDgTOdX.
 4. To add an organization, use this form: https://airtable.com/shrH8YqwrQMTrFUOu.
 5. Questions? Join our Telegram chat: https://t.me/joinchat/JnbpFhQPpwm4BuZ--u7pjg.
 
 ## Documentation
-Go to the [docs page](https://github.com/thelastjosh/govbase/blob/master/documentation.md).
+Go to the [docs page](documentation/documentation.md).
 
 ## Getting involved
 Govbase is a crowdsourced, community effort. We’re always looking for more editors, contributors, and research partners. If you would like to do research with Govbase, contribute data, or if you have an existing mapping project that you’d like to integrate, please get in touch!

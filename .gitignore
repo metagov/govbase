@@ -1,5 +1,7 @@
-protogovbase-37548e28a642.json
-protogovbase-b9baeecc8980.json
-api.json
+**/.ipynb_checkpoints
+**/__pycache__
 .DS_Store
 .vscode
+
+protogovbase-*.json
+api.json

@@ -98,4 +98,4 @@ The design of this table is still an area of active research! The goal of the St
 *Is property of*: class A is a property of class B if class A can be defined as a predicate on instances of B. For example, "proportional representation" is a property of a legislature.
 
 ## Schema
-![govbase_schema](https://github.com/thelastjosh/govbase/blob/master/govbase_schema.png)
+![govbase_schema](images/govbase_schema.png)

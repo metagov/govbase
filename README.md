@@ -1,17 +1,17 @@
-<img src="https://github.com/thelastjosh/govbase/blob/master/govbase_logo.png" width="300" />
+<img src="documentation/images/govbase_logo.png" width="300" />
 
 # Govbase
 Govbase is an open, crowdsourced database of projects and tools for the governance of online communities.
 
 This repository contains code, documentation, visualizations, and other material related to Govbase. The data is currently hosted on Airtable, at https://airtable.com/shrgnUrj0dqzZDsOd.
 
-New: [collecting blockchain constitutions](https://github.com/thelastjosh/govbase/tree/master/documents/constitutions)
+New: [collecting blockchain constitutions](documents/constitutions)
 
 New: [systems map of online governance](https://embed.kumu.io/3cbd03faf0da602f351b827c7c3b98ab#structures-excel)
 
 ## Getting started
 1. Skim [the write-up](https://thelastjosh.medium.com/introducing-govbase-97884b0ddaef) on Medium.
-2. Browse the [documentation](documentation/documentation.md)..
+2. Browse the [documentation](documentation/documentation.md).
 3. To add a project, use this form: https://airtable.com/shr1BcXojViDgTOdX.
 4. To add an organization, use this form: https://airtable.com/shrH8YqwrQMTrFUOu.
 5. Questions? Join our Telegram chat: https://t.me/joinchat/JnbpFhQPpwm4BuZ--u7pjg.

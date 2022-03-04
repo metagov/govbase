@@ -1,22 +1,39 @@
-# Govbase Documentation v0.1
+# Govbase Documentation v0.2
 
 ## API
-The auto-generated Airtable API documentation can be found here: https://airtable.com/appx3e9Przn9iprkU/api/docs. To access the Airtable API, you will need an Airtable account and editor access to the base (Airtabl will generate a key for you).
+The auto-generated Airtable API documentation can be found here: https://airtable.com/appx3e9Przn9iprkU/api/docs. To access the Airtable API, you will need an Airtable account and editor access to the base (Airtable will generate a key for you).
 
 ## Tables
-Govbase is organized into three main tables: **Projects**, **Organizations**, and **Structures**.
+Govbase is organized into tables of interlinked data to support a variety of projects at Metagov, which can be navigated by the Airtable tabs. For each table, views are defined to examine various properties of the table.
 
-| Table         | Description                                                       | Examples                                           |
-|---------------|-------------------------------------------------------------------|----------------------------------------------------|
-| Projects      | Platforms, software, and research in online governance            | Discourse, SourceCred, Open Collective, Aragon     |
-| Organizations | Organizations and communities that develop, use, or fund projects | Enspiral, MetaGame, Knight Foundation              |
-| Structures    | Concepts and institutions from social science; source of labels   | Quadratic voting, democracy, online community, DAO |
+| Table                         | Description                                                       | Examples                                           |
+|-------------------------------|-------------------------------------------------------------------|----------------------------------------------------|
+| Projects                      | Platforms, software, and research in online governance            | Discourse, SourceCred, Open Collective, Aragon     |
+| Organizations                 | Organizations and communities that develop, use, or fund projects | Enspiral, MetaGame, Knight Foundation              |
+| Structures                    | Concepts and institutions from social science; source of labels   | Quadratic voting, democracy, online community, DAO |
+| Instances                     | Junction table from relation "Organization uses project"          | "The Metagovernance Project uses Govbase"          |
+| Instances (manual)            |                                                                   |                                                    |
+| Cases                         | Events, experiments, and lived experiences of online communities  | The DAO hack, Gamergate vs Wikipedia               |
+| Social Ontologies             |                                                                   |                                                    |
+| Documents                     | Primary-source documents of project and organizations governance  |                                                    |
+| Constitutional Model          | Model of web3 project and organization governance documents       |                                                    |
+| Parameters                    | Endpoints and parameters for a platform or service configuration  |                                                    |
+| Parameter Model               | Model of parameter patterns observed in Parameters table          |                                                    |
+| Cryptogov Survey              | Primary data from the Cryptogov governance assessment             | Survey responses of projects or organizations      |
+| Cryptogov Metrics             | Metrics identified for the Cryptogov governance assessment        |                                                    |
+| Cryptopolitical Typology Quiz | Primary data from the Cryptopolitical Typology Quiz               | Anonymized survey responses of individuals         |
+| Entity-Decision Model         | Entities and decisionmaking processes involved in a project       |                                                    | 
+| Contract Objects              | Solidity smart contract objects for DAO governance frameworks     |                                                    |
+| Contract Parameters           | Solidity smart contract parameters for DAO governance frameworks  |                                                    |
+| Metaeth Observations          | (Placeholder for Metaethnograpy project)                          | (TBD)                                              |
 
-**Projects**: A project is a discrete, re-usable software or research product. Includes code libraries, online platforms, online services, APIs, standards, protocols, and data sets.
+In particular, entries from the first three tables are used to link data throughout Govbase:
 
-**Organizations**: A (social) organization is an entity composed of individuals gathered for a common purpose. Includes online communities, companies, nonprofits, and funders involved in online governance.
+- **Projects**: A project is a discrete, re-usable software or research product. Includes code libraries, online platforms, online services, APIs, standards, protocols, and data sets.
 
-**Structures**: A (governance) structure or institutional pattern is a scientific or technical description of a set of similar social behaviors and practices. Used mostly as a source of labels for **Projects**. 
+- **Organizations**: A (social) organization is an entity composed of individuals gathered for a common purpose. Includes online communities, companies, nonprofits, and funders involved in online governance.
+
+- **Structures**: A (governance) structure or institutional pattern is a scientific or technical description of a set of similar social behaviors and practices. Used mostly as a source of labels for **Projects**. 
 
 
 ### Projects

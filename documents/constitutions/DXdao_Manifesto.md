@@ -1,4 +1,4 @@
-// Archival copy. Original URL: https://dxdocs.eth.limo/docs/Manifesto/ . Date archived: July 6, 2022.
+// Archival copy. Original URL: https://dxdocs.eth.limo/docs/Manifesto/ . Date archived: 06-07-2022.
 
 # Manifesto
 DXdao is a decentralized collective that builds and governs decentralized products and services for the world. It aims to be an open community that reaches consensus in a transparent and fair way.

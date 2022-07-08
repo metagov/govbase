@@ -1,4 +1,17 @@
-// Archival copy. Original URL: https://1hive.org/#/covenant. Date archived: 30-10-2021.
+Archival copy
+
+{ 
+  "@context": "https://constitutions.metagov.org",
+  "type": "constitution",
+  "title": "1Hive Community Covenant",
+  "name": "1Hive",
+  "daoURI": "",
+  "dateCreated": "",
+  "dateModified": "",
+  "previousConstitutionURI": "",
+  "inForce": "True",
+  "archived": "<2021-10-30>"
+}
 
 # 1Hive Community Covenant
 
@@ -49,3 +62,18 @@ If the oracle responds in favor of the proposer the proposal will be unlocked an
 ## Off-chain enforcement
 
 While there is no canonical off-chain forum that represents the 1Hive community, there are community spaces including the 1Hive GitHub, Discourse, and Discord communities, and others forums which may emerge in the future which are expected to adhere to this covenant.
+
+<!--
+{ 
+  "@context": "https://constitutions.metagov.org",
+  "type": "constitution",
+  "title": "1Hive Community Covenant",
+  "name": "1Hive",
+  "daoURI": "",
+  "dateCreated": "",
+  "dateModified": "",
+  "previousConstitutionURI": "",
+  "inForce": "True",
+  "archived": "<2021-10-30>"
+}
+-->

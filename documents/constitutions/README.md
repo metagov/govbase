@@ -10,13 +10,13 @@ If you would like to upload a (raw) constitution for a given online community, p
 { 
   "@context": "https://constitutions.metagov.org",
   "type": "constitution",
-  “title”: “<title of the document>”,
-  “name”: “<name of the DAO>”,
-  “daoURI”: “<URI of daoURI, see EIP-4824>”,
-  “dateCreated”: “<YYYY-MM-DD>”,
-  “dateModified”: “<YYYY-MM-DD>”,
-  “previousConstitutionURI”: “<URI>”,
-  “inForce”: “<True, False>”
+  "title": "<title of the document>",
+  "name": "<name of the DAO>",
+  "daoURI": "<URI of daoURI, see EIP-4824>",
+  "dateCreated": "<YYYY-MM-DD>",
+  "dateModified": "<YYYY-MM-DD>",
+  "previousConstitutionURI": "<URI>",
+  "inForce": "<True, False>"
 }
 ```
 

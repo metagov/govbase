@@ -1,5 +1,6 @@
-// Archival copy
-// { 
+Archival copy
+
+{ 
   "@context": "https://constitutions.metagov.org",
   "type": "constitution",
   "title": "1Hive Community Covenant",

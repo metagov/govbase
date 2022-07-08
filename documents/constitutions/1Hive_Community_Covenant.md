@@ -1,4 +1,16 @@
 // Archival copy
+// { 
+  "@context": "https://constitutions.metagov.org",
+  "type": "constitution",
+  "title": "1Hive Community Covenant",
+  "name": "1Hive",
+  "daoURI": "",
+  "dateCreated": "",
+  "dateModified": "",
+  "previousConstitutionURI": "",
+  "inForce": "True",
+  "archived": "<2021-10-30>"
+}
 
 # 1Hive Community Covenant
 

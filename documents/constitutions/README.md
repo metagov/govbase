@@ -6,7 +6,6 @@ The Constitutions of Web3 data set, part of [Govbase](https://govbase.metagov.or
 
 If you would like to upload a (raw) constitution for a given online community, please submit a pull request to add a file to this folder, preferably as a .md file. Please make sure that the section titles are recognizable, and please include the following JSON metadata as a comment in the file:
 
-<!-- 
 { 
 "@context": "https://constitutions.metagov.org",
 "type": "constitution",
@@ -18,7 +17,6 @@ If you would like to upload a (raw) constitution for a given online community, p
 “previousConstitutionURI”: “<URI>”,
 “inForce”: “<True, False>”
 }
--->
 
 ## What is a constitution?
 

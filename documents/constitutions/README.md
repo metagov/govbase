@@ -6,17 +6,17 @@ The Constitutions of Web3 data set, part of [Govbase](https://govbase.metagov.or
 
 If you would like to upload a (raw) constitution for a given online community, please submit a pull request to add a file to this folder, preferably as a .md file. Please make sure that the section titles are recognizable, and please include the following JSON metadata as a comment in the file:
 
-```
+```json
 { 
-"@context": "https://constitutions.metagov.org",
-"type": "constitution",
-“title”: “<title of the document>”,
-“name”: “<name of the DAO>”,
-“daoURI”: “<URI of daoURI, see EIP-4824>”,
-“dateCreated”: “<YYYY-MM-DD>”,
-“dateModified”: “<YYYY-MM-DD>”,
-“previousConstitutionURI”: “<URI>”,
-“inForce”: “<True, False>”
+  "@context": "https://constitutions.metagov.org",
+  "type": "constitution",
+  “title”: “<title of the document>”,
+  “name”: “<name of the DAO>”,
+  “daoURI”: “<URI of daoURI, see EIP-4824>”,
+  “dateCreated”: “<YYYY-MM-DD>”,
+  “dateModified”: “<YYYY-MM-DD>”,
+  “previousConstitutionURI”: “<URI>”,
+  “inForce”: “<True, False>”
 }
 ```
 

@@ -206,3 +206,16 @@ In addition to the Raider Rally, each week Raid Guild alternates between a Raid 
 If you have a share and would like an invite to the recurring Roundtable call, please drop a message in RaidHQ #general channel so that someone can add you or just ask a @Tavern Keeper.
 
 There is also a meeting set strictly for Happy-Hour in the Guild, which we strongly encourgae you join for it's cultural reconaissance.
+
+{ 
+  "@context": "https://constitutions.metagov.org",
+  "type": "constitution",
+  "title": "Handbook",
+  "name": "Raid Guild",
+  "daoURI": "<URI of daoURI, see EIP-4824>",
+  "dateCreated": "2021-00-00",
+  "dateModified": "<YYYY-MM-DD>",
+  "previousConstitutionURI": "<URI>",
+  "inForce": "True",
+  "archived": "2022-07-09"
+}

@@ -33,3 +33,16 @@ Forking. The right to fork and the right to exit are critical to protect individ
 Anti-plutocracy. Influence in governance must extend beyond financial stake to value humanhood and intelligent life. The centralizing force of plutocratic token governance is a risk to the health and effectiveness of the Collective, and must be balanced with Citizenship.
 impact=profit. The primary function of the Collective is to minimize the discrepancy between collective impact and individual profit. We believe this to be the most important target in the pursuit of solving global coordination problems and creating a better future. Our economy is an expression of our collective needs, wants, and ethics. We harm ourselves when we do not adequately, fairly, and consistently reward positive impact.
 6. Always. Stay Optimistic :red_circle::sparkles:
+
+{ 
+  "@context": "https://constitutions.metagov.org",
+  "type": "constitution",
+  "title": "Working Constitution of the Optimism Collective",
+  "name": "Optimism Collective",
+  "daoURI": "<URI of daoURI, see EIP-4824>",
+  "dateCreated": "2022-04-26",
+  "dateModified": "<YYYY-MM-DD>",
+  "previousConstitutionURI": "<URI>",
+  "inForce": "True",
+  "archived": "2022-07-09"
+}

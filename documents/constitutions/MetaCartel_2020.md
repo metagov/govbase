@@ -24,3 +24,15 @@ If you want to go fast, go alone. If you want to go far, go together.
 
 Arweave link: https://wnpukta6xzoz.arweave.net/731xyEhi1L6OMzxIRwt0PZocO3oYu-og_-qfjq335Hs
 
+{ 
+  "@context": "https://constitutions.metagov.org",
+  "type": "constitution",
+  "title": "Community first manifesto",
+  "name": "MetaCartel Ventures",
+  "daoURI": "<URI of daoURI, see EIP-4824>",
+  "dateCreated": "2020-04-02",
+  "dateModified": "<YYYY-MM-DD>",
+  "previousConstitutionURI": "<URI>",
+  "inForce": "True",
+  "archived": "2022-07-09"
+}

@@ -388,3 +388,17 @@ For outgoing payments to recipients who may have not consented to this Constitut
 * The comments of Michael O’Rourke, Dermot O’Riordan, Nelson Ryan, Stéphane Gosselin, Adam Liposky, Gabriel Shapiro, Lawrence Lundy-Bryan, Philippe Honigman, Louis Giraux, Felix Machart, Xule Lin, and John Light.
 * The legal advice of Ryan Williams and Ashok Ayyar of Ashbury Legal, and Michael Robinson and Bradley Kruger of Ogier, in designing the Pocket Network Foundation (Foundation).
 * Parts of the Statutes have leveraged a Qualified Code Deference template by Gabriel Shapiro, but this does not constitute an attorney-client relationship.
+
+
+{ 
+  "@context": "https://constitutions.metagov.org",
+  "type": "constitution",
+  "title": "Pocket Network's Constitution of 2020",
+  "name": "Pocket Network",
+  "daoURI": "<URI of daoURI, see EIP-4824>",
+  "dateCreated": "2020-07-28",
+  "dateModified": "<YYYY-MM-DD>",
+  "previousConstitutionURI": "<URI>",
+  "inForce": "True",
+  "archived": "2022-07-09"
+}

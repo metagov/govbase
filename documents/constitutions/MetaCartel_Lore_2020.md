@@ -27,3 +27,15 @@ We are committed and here to stay, and this is how we intend to win — with peo
 
 “If you want to go fast, go alone. If you want to go far, go together.”
 
+{ 
+  "@context": "https://constitutions.metagov.org",
+  "type": "constitution",
+  "title": "MetaCartel Lore",
+  "name": "MetaCartel Ventures",
+  "daoURI": "<URI of daoURI, see EIP-4824>",
+  "dateCreated": "2020-04-02",
+  "dateModified": "<YYYY-MM-DD>",
+  "previousConstitutionURI": "<URI>",
+  "inForce": "True",
+  "archived": "2022-07-09"
+}

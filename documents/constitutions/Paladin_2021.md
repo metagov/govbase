@@ -22,3 +22,16 @@ Article V - Decentralization
 
 Article VI - Amendments to this constitution
 * Any change may be made to this constitution only by at least 20% of all tokens circulating.
+
+{ 
+  "@context": "https://constitutions.metagov.org",
+  "type": "constitution",
+  "title": "Constitution of Paladin DAO",
+  "name": "Paladin DAO",
+  "daoURI": "<URI of daoURI, see EIP-4824>",
+  "dateCreated": "<2021-11-22>",
+  "dateModified": "<YYYY-MM-DD>",
+  "previousConstitutionURI": "<URI>",
+  "inForce": "True",
+  "archived": "2021-12-30"
+}

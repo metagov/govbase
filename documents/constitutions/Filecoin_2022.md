@@ -38,7 +38,7 @@ Filecoin is still in its infancy, but it has the potential to play a central rol
 
 This improvement protocol helps achieve that objective for all members of the Filecoin community (developers, miners, clients, token holders, ecosystem partners, and more). 
 
-<--
+<!--
 { 
   "@context": "https://constitutions.metagov.org",
   "type": "constitution",

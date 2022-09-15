@@ -1,3 +1,5 @@
+// Archival Copy: Constitutions of Web3 data set by Metagov
+
 ## Filecoin Improvement Protocol
 
 The Filecoin Improvement Protocol contains the set of fundamental governing principles for the Filecoin Network. It outlines the vision for Filecoin and the principles, processes, and parties involved in making decisions that affect the future of the network. It also describes how improvements to these rules can be proposed and ratified.
@@ -35,3 +37,18 @@ FIPs are classified into three categories:
 Filecoin is still in its infancy, but it has the potential to play a central role in the storage and distribution of humanity’s information. To help the network grow and evolve, it is critical for the community to collectively be engaged in proposing, discussing, and implementing changes that improve the network and its operations. 
 
 This improvement protocol helps achieve that objective for all members of the Filecoin community (developers, miners, clients, token holders, ecosystem partners, and more). 
+
+<--
+{ 
+  "@context": "https://constitutions.metagov.org",
+  "type": "constitution",
+  "title": "Filecoin Improvement Protocol",
+  "name": "Filecoin",
+  "daoURI": "<URI of daoURI, see EIP-4824>",
+  "dateCreated": "<YYYY-MM-DD>",
+  "dateModified": "<2022-09-15>",
+  "previousConstitutionURI": "<URI>",
+  "inForce": "True",
+  "archived": "<2022-09-15>"
+}
+-->

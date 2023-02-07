@@ -1,7 +1,5 @@
 <img src="documentation/images/govbase_logo.png" width="300" />
 
-![Logo](/govbase_logo.png)
-
 **Govbase** is a warehouse of qualitative and quantitative data sets relating to the governance of online communities. Govbase is [hosted on Airtable](https://airtable.com/shrgnUrj0dqzZDsOd) as a series of linked data tables with curated views. 
 
 Govbase is maintained by [Metagov](https://metagov.org) and supports a variety of Metagov projects as well as external collaborations.

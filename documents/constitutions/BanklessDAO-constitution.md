@@ -1,3 +1,22 @@
+---
+{ 
+  "@context": "https://constitutions.metagov.org",
+  "type": "Constitution",
+  "title": "Bankless DAO Constitution",
+  "communityName": "Bankless",
+  "daoURI": "",
+  "author": "",
+  "discussions-to": "",
+  "created": "2022-06-01",
+  "lastModified": "2023-06-23",
+  "previousConstitutionURI": "",
+  "inForce": "True",
+  "archivalStatus": "True"
+  "archivalDate": "<2023-09-18>"
+  "archivalOriginalURI": "https://github.com/BanklessDAO/bankless-dao-constitution/blob/main/bdao-constitution.md"
+}
+---
+
 
 # BanklessDAO Constitution
 

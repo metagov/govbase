@@ -1,3 +1,17 @@
+{ 
+  "@context": "https://constitutions.metagov.org",
+  "type": "constitution",
+  "title": "<Constitution of DAOdao>",
+  "name": "<DAOdao>",
+  "daoURI": "<URI of daoURI, see EIP-4824>",
+  "dateCreated": "<2022-08-11>",
+  "dateModified": "<YYYY-MM-DD>",
+  "previousConstitutionURI": "https://github.com/DA0-DA0/governance/blob/main/constitution.md",
+  "inForce": "<True>",
+  "archived": "<2023-09-18>"
+}
+
+
 ## Mission Statement
 
 This Constitution was created on August 11, 2022, to outline the goals

@@ -1,6 +1,7 @@
 ---
-"@context": "https://constitutions.metagov.org",
-"type": "constitution",
+{
+  "@context": "https://constitutions.metagov.org",
+  "type": "constitution",
   "title": "Optimism Working Constitution",
   "communityName": "Optimism Collective",
   "daoURI": "",
@@ -10,9 +11,10 @@
   "lastModified": "2022-04-26",
   "previousConstitutionURI": "",
   "inForce": "True",
-  "archivalStatus": "True"
-  "archivalDate": "<2024-08-16>"
+  "archivalStatus": "True",
+  "archivalDate": "<2024-08-16>",
   "archivalOriginalURI": "https://gov.optimism.io/t/working-constitution-of-the-optimism-collective/"
+}
 ---
 
 # Working Constitution of the Optimism Collective

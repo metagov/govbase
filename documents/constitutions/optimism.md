@@ -1,4 +1,4 @@
---
+---
 { 
   "@context": "https://constitutions.metagov.org",
   "type": "constitution",
@@ -15,7 +15,7 @@
   "archivalDate": "<2024-08-16>"
   "archivalOriginalURI": "https://gov.optimism.io/t/working-constitution-of-the-optimism-collective/"
 }
---
+---
 
 # Working Constitution of the Optimism Collective
 

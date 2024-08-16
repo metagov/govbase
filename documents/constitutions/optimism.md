@@ -1,6 +1,6 @@
 ---
-  "@context": "https://constitutions.metagov.org",
-  "type": "constitution",
+"@context": "https://constitutions.metagov.org",
+"type": "constitution",
   "title": "Optimism Working Constitution",
   "communityName": "Optimism Collective",
   "daoURI": "",

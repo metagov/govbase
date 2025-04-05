@@ -6,6 +6,8 @@ Govbase is maintained by [Metagov](https://metagov.org) and supports a variety o
 
 - [**The data**](#the-data) 
 - [**Getting involved**](#getting-involved)
+- [**License**](#license)
+- [**Acknowledgements**](#acknowledgements)
 
 ## The data
 
